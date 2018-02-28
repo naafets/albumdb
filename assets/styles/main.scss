@@ -1,0 +1,11 @@
+@import '~bulma/sass/utilities/initial-variables';
+@import '~bulma/sass/utilities/functions';
+
+$navbar-tab-active-border-bottom-width: 1px;
+$family-sans-serif: 'Montserrat', sans-serif;
+$body-background-color: $white-ter;
+$background: white;
+// $message-body-border: 0px;
+
+@import '~bulma';
+@import '~buefy/src/scss/buefy';
